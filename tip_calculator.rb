@@ -36,4 +36,4 @@ puts "Here is your total bill: $#{"%.2f" % total_with_tip}."
 line
 puts "Thank you for dining with us today."
 line
-
+puts "hello"
